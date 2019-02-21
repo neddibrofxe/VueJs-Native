@@ -10,3 +10,6 @@ Cara membuatnya dengan mendownload admin lte dan memasukkan link vue js nya
 tampilan from soal menggunakan radio
 
 dan membuat kemungkinanya dalam script vue seperti yang tertera dalam file indexsoal.html
+
+untuk quez yang menggunakan vue installernya ada di
+https://github.com/neddibrofxe/VueJSQuiz
