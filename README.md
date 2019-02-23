@@ -13,3 +13,5 @@ dan membuat kemungkinanya dalam script vue seperti yang tertera dalam file index
 
 untuk quez yang menggunakan vue installernya ada di
 https://github.com/neddibrofxe/VueJSQuiz
+
+Terdapat fitur atau function yang dimatikan, jadi diharapkan untuk membaca keterangan terlebih dahulu
